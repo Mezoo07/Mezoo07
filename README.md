@@ -1,4 +1,4 @@
-# 💫 Hello World:
+# 💫 About Me:
 🐍 Python Sniper | 🗃️ Database Raider<br>☕ Java Jungle Diff | ⚡ Go Speedrunner<br>🚀 Building APIs like executing combos<br>🛡️ System Architect | 🎮 Ranked Grinder
 
 
@@ -17,9 +17,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mezoo07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mezoo07&icon=9&color=2)](https://visitcount.itsvg.in)
